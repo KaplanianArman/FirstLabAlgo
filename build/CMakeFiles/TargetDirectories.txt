@@ -1,5 +1,0 @@
-/Users/kaplanianarman/Desktop/АиСд/ZeroLab/build/CMakeFiles/task1.dir
-/Users/kaplanianarman/Desktop/АиСд/ZeroLab/build/CMakeFiles/task2.dir
-/Users/kaplanianarman/Desktop/АиСд/ZeroLab/build/CMakeFiles/task3.dir
-/Users/kaplanianarman/Desktop/АиСд/ZeroLab/build/CMakeFiles/edit_cache.dir
-/Users/kaplanianarman/Desktop/АиСд/ZeroLab/build/CMakeFiles/rebuild_cache.dir
